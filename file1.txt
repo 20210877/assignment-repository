@@ -1,0 +1,6 @@
+#include<stdio.h>
+
+void main(void)
+{
+	printf("이것은 과제입니다.");
+}
