@@ -1,8 +1,9 @@
 #include<stdio.h>
 
+int num=0;
+
 void main(void)
 {
 	printf("이것은 과제입니다.");
 	printf("첫 번째 수정입니다.");
-	return;
 }
